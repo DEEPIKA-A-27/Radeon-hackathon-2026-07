@@ -87,3 +87,5 @@ What you'll learn:
 4. **Demonstration Video** (Recommended Length 3~5 minutes)
    - The video should demonstrate the complete workflow of the project, including command-line and/or GUI operations, execution procedures, and results
 5. **Supplementary materials** in other formats may be submitted to demonstrate the value of the proposed technical solution.
+"# Submission: DebuggingAgent" 
+"Repository: https://github.com/DEEPIKA-A-27/DebuggingAgent" 

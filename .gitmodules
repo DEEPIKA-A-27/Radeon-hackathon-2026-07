@@ -1,0 +1,3 @@
+[submodule "DebuggingAgent"]
+	path = DebuggingAgent
+	url = https://github.com/DEEPIKA-A-27/DebuggingAgent.git
